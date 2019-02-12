@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view methods.}
   spec.description   = %q{Provides generic html data for Rails applications.}
-  spec.homepage      = "http://aliciaadamsevans.com"
+  spec.homepage      = "https://github.com/unleashalicia/alevans_view_tool"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
