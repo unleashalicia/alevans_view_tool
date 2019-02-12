@@ -18,10 +18,6 @@ Or install it yourself as:
 
     $ gem install alevans_view_tool
 
-## Usage
-
-Use to add copyright information to your web page.
-
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
